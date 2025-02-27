@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AEEast.us" tvg-logo="https://seeklogo.com/images/A/a-e-television-logo-CF105A873E-seeklogo.com.png" group-title="National",A&E East
+#EXTINF:-1 tvg-id="AEEast.us" tvg-logo="https://images.seeklogo.com/logo-png/17/2/ae-television-logo-png_seeklogo-174928.png" group-title="National",A&E East
 https://tvpass.org/live/AEEast/hd/
 #EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC_EAST" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/abc-broadcast-logo-png-transparent.png",ABC East group-title="National",ABC East
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
